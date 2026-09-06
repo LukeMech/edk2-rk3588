@@ -284,7 +284,7 @@
   gRK3588TokenSpaceGuid.PcdAcpiPcieEcamCompatModeDefault|$(ACPI_PCIE_ECAM_COMPAT_MODE_AUTO)
   gRK3588TokenSpaceGuid.PcdFdtCompatModeDefault|$(FDT_COMPAT_MODE_MAINLINE)
   gRK3588TokenSpaceGuid.PcdFdtForceGopDefault|FALSE
-  gRK3588TokenSpaceGuid.PcdFdtSupportOverridesDefault|FALSE
+  gRK3588TokenSpaceGuid.PcdFdtSupportOverridesDefault|TRUE
   gRK3588TokenSpaceGuid.PcdFdtOverrideFixupDefault|TRUE
   gRK3588TokenSpaceGuid.PcdFdtOverrideBasePathDefault|L""
   gRK3588TokenSpaceGuid.PcdFdtOverrideOverlayPathDefault|L""
