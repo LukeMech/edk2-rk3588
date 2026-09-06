@@ -1,14 +1,6 @@
 // SPDX-License-Identifier: (GPL-2.0+ OR MIT)
 
-#include "rk3588s-rock-5a.dts"
-
-&hdmi0_sound {
- 	status = "okay";
-};
-
-&i2s5_8ch {
- 	status = "okay";
-};
+#include "rk3588s-rock-5c.dts"
 
 &pd_npu {
 	domain-supply = <&vdd_npu_s0>;
